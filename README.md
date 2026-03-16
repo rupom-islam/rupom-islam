@@ -13,7 +13,7 @@ I am a passionate **Programming Enthusiast** who loves exploring new technologie
 - **Tools:** Git, GitHub, VS Code
 
 ### 📊 GitHub Stats:
-![Rupom's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Rupom's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupom-islam&show_icons=true&theme=radical)
 
 ---
 
